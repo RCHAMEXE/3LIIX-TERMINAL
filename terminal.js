@@ -108,7 +108,7 @@ var Terminal = Terminal || function(cmdLineContainer, outputContainer) {
           this.value = '';
           return;
         case 'more':
-          var result = "<h2>more commands</h2><p><b>whoami</b>: display all personal my information.<br><b>education</b>: display all my information about my education.<br><b>proxcs</b>: display all my information about my achievements in programming and security.<br><b>interests</b>: display all my interests.<br><b>love</b>: are you curious about my love?<br><b>community</b>: join our community<br><b>contact</b>: Say hi<br><b>skills</b>: My sckills<br><b>clear</b>: clear terminal<br><b>more</b>: display this menu.<br><b>note</b>: note very important... ";
+          var result = "<h2>more commands</h2><p><b>whoami</b>: display all personal informations.<br><b>education</b>: display all my information about my education.<br><b>proxcs</b>: display all my information about my achievements in programming and security.<br><b>interests</b>: display all my interests.<br><b>love</b>: are you curious about my love?<br><b>community</b>: join our community<br><b>contact</b>: Say hi<br><b>skills</b>: My sckills<br><b>clear</b>: clear terminal<br><b>more</b>: display this menu.<br><b>note</b>: note very important... ";
           output(result);
           break;
         case 'education':
