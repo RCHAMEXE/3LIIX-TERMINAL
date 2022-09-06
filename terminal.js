@@ -194,7 +194,7 @@ var Terminal = Terminal || function(cmdLineContainer, outputContainer) {
   //
   return {
     init: function() {
-      output('<h1>Ali Rcham</h1><h3>Web developper, Writter, and Security Researcher<br>I regulary share my projects in my second portfolio : <a href=\"https://rcham.netlify.app/\">https://rcham.netlify.app</a></h3><p>Enter "more" for more information.</p><p> -- love <3</p>');
+      output('<h1>Ali Rcham</h1><h3>Web developper, Writter, and Security Researcher<br>I regulary share my projects in my second portfolio : <a href=\"https://rcham.me/\">rcham.me</a></h3><p>Enter "more" for more information.</p><p> -- love <3</p>');
     },
     output: output
   }
