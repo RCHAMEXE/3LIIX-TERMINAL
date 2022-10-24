@@ -141,7 +141,7 @@ var Terminal = Terminal || function(cmdLineContainer, outputContainer) {
           output(result);
           break;
         case 'love':
-          output("<h3>404...<br>Just hard times for the moment.</h3>");
+          output("<h3>404...<br>Just hard times for the moment. <br> M ❤️❤️❤️❤️❤️</h3>");
           break;
         case 'note':
             output("<h3>I'need a girl friend :(</h3>");
