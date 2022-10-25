@@ -143,6 +143,18 @@ var Terminal = Terminal || function(cmdLineContainer, outputContainer) {
         case 'love':
           output("<h3>404...<br>Just hard times for the moment. <br> M ❤️❤️❤️❤️❤️</h3>");
           break;
+        case 'maryam':
+          output("<h3>404...<br>love...</h3>");
+          break;
+        case 'oussama':
+          output("<h3>good friend</h3>");
+          break;
+        case 'barae':
+          output("<h3>good friend</h3>");
+          break;
+        case 'karim':
+          output("<h3>good friend</h3>");
+          break;
         case 'note':
             output("<h3>I'need a girl friend :(</h3>");
             break;
